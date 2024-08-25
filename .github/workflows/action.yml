@@ -1,4 +1,4 @@
-name: portfolio
+name: hex2rgb
 on:
   push:
     branches:
