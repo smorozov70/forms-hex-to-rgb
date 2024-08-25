@@ -7,6 +7,6 @@ export default defineConfig({
     // outDir: "dist",
     sourcemap: true,
   },  
-  base: '/hex2rgb/',
+  base: '/forms-hex-to-rgb/',
   plugins: [react()],
 })
